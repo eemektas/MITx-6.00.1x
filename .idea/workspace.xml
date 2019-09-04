@@ -2,8 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5f68d865-a818-4179-99ff-fc23ac420b3a" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Week 1/Happy.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Week 1/Hello World.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week 1/varA varB.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week 1/while 1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week 1/while 2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week 1/while 3.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -24,6 +26,9 @@
     <option name="ROOT_SYNC" value="DONT_SYNC" />
   </component>
   <component name="ProjectId" id="1QEiwAANSyLWJAQGRmOLNyWdhcR" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="last_opened_file_path" value="D:/Program Files/Git/bin/git.exe" />
