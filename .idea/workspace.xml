@@ -1,37 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="5f68d865-a818-4179-99ff-fc23ac420b3a" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Week 2/Exercises/Eval Quadratic.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Week 2/Exercises/Fourth Power.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Week 2/Exercises/Odd.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Week 2/Exercises/Power Iter.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Week 2/Exercises/Power Recur.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Week 2/Exercises/Square.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Week 2/Exercises/gcd Iter.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Week 2/Exercises/gcd Recur.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MIT6midterm/ClosestPower.py" beforeDir="false" afterPath="$PROJECT_DIR$/Midterm/ClosestPower.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MIT6midterm/DeepReverse.py" beforeDir="false" afterPath="$PROJECT_DIR$/Midterm/DeepReverse.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MIT6midterm/LessThan4.py" beforeDir="false" afterPath="$PROJECT_DIR$/Midterm/LessThan4.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MIT6midterm/MaxValue.py" beforeDir="false" afterPath="$PROJECT_DIR$/Midterm/MaxValue.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MIT6midterm/UniqueList.py" beforeDir="false" afterPath="$PROJECT_DIR$/Midterm/UniqueList.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MIT6midterm/applyAndFilter.py" beforeDir="false" afterPath="$PROJECT_DIR$/Midterm/applyAndFilter.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MIT6midterm/flattenList.py" beforeDir="false" afterPath="$PROJECT_DIR$/Midterm/flattenList.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MIT6midterm/interDiff.py" beforeDir="false" afterPath="$PROJECT_DIR$/Midterm/interDiff.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Week 1/Happy.py" beforeDir="false" afterPath="$PROJECT_DIR$/Week 1/Exercises/Happy.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Week 1/Hello World.py" beforeDir="false" afterPath="$PROJECT_DIR$/Week 1/Exercises/Hello World.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Week 1/for 1.py" beforeDir="false" afterPath="$PROJECT_DIR$/Week 1/Exercises/for 1.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Week 1/for 2.py" beforeDir="false" afterPath="$PROJECT_DIR$/Week 1/Exercises/for 2.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Week 1/for 3.py" beforeDir="false" afterPath="$PROJECT_DIR$/Week 1/Exercises/for 3.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Week 1/varA varB.py" beforeDir="false" afterPath="$PROJECT_DIR$/Week 1/Exercises/varA varB.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Week 1/while 1.py" beforeDir="false" afterPath="$PROJECT_DIR$/Week 1/Exercises/while 1.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Week 1/while 2.py" beforeDir="false" afterPath="$PROJECT_DIR$/Week 1/Exercises/while 2.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Week 1/while 3.py" beforeDir="false" afterPath="$PROJECT_DIR$/Week 1/Exercises/while 3.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Week 2/Exercise Guess My Number.py" beforeDir="false" afterPath="$PROJECT_DIR$/Week 2/Exercises/Guess My Number.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Week 4/7. Testing and Debugging/Exercise integer division.py" beforeDir="false" afterPath="$PROJECT_DIR$/Week 4/Exercises/Integer Division.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Week 4/8. Exceptions and Assertions/Exercise simple divide.py" beforeDir="false" afterPath="$PROJECT_DIR$/Week 4/Exercises/Simple Divide.py" afterDir="false" />
-    </list>
+    <list default="true" id="5f68d865-a818-4179-99ff-fc23ac420b3a" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -225,7 +195,14 @@
       <option name="project" value="LOCAL" />
       <updated>1567859190407</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="update">
+      <created>1567955658232</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1567955658232</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -243,6 +220,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="upload" />
-    <option name="LAST_COMMIT_MESSAGE" value="upload" />
+    <MESSAGE value="update" />
+    <option name="LAST_COMMIT_MESSAGE" value="update" />
   </component>
 </project>
