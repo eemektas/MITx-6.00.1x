@@ -2,13 +2,44 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5f68d865-a818-4179-99ff-fc23ac420b3a" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/Week 2/Exercises/Eval Quadratic.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week 2/Exercises/Fourth Power.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week 2/Exercises/Odd.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week 2/Exercises/Power Iter.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week 2/Exercises/Power Recur.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week 2/Exercises/Square.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week 2/Exercises/gcd Iter.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week 2/Exercises/gcd Recur.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MIT6midterm/ClosestPower.py" beforeDir="false" afterPath="$PROJECT_DIR$/Midterm/ClosestPower.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MIT6midterm/DeepReverse.py" beforeDir="false" afterPath="$PROJECT_DIR$/Midterm/DeepReverse.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MIT6midterm/LessThan4.py" beforeDir="false" afterPath="$PROJECT_DIR$/Midterm/LessThan4.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MIT6midterm/MaxValue.py" beforeDir="false" afterPath="$PROJECT_DIR$/Midterm/MaxValue.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MIT6midterm/UniqueList.py" beforeDir="false" afterPath="$PROJECT_DIR$/Midterm/UniqueList.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MIT6midterm/applyAndFilter.py" beforeDir="false" afterPath="$PROJECT_DIR$/Midterm/applyAndFilter.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MIT6midterm/flattenList.py" beforeDir="false" afterPath="$PROJECT_DIR$/Midterm/flattenList.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MIT6midterm/interDiff.py" beforeDir="false" afterPath="$PROJECT_DIR$/Midterm/interDiff.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week 1/Happy.py" beforeDir="false" afterPath="$PROJECT_DIR$/Week 1/Exercises/Happy.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week 1/Hello World.py" beforeDir="false" afterPath="$PROJECT_DIR$/Week 1/Exercises/Hello World.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week 1/for 1.py" beforeDir="false" afterPath="$PROJECT_DIR$/Week 1/Exercises/for 1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week 1/for 2.py" beforeDir="false" afterPath="$PROJECT_DIR$/Week 1/Exercises/for 2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week 1/for 3.py" beforeDir="false" afterPath="$PROJECT_DIR$/Week 1/Exercises/for 3.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week 1/varA varB.py" beforeDir="false" afterPath="$PROJECT_DIR$/Week 1/Exercises/varA varB.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week 1/while 1.py" beforeDir="false" afterPath="$PROJECT_DIR$/Week 1/Exercises/while 1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week 1/while 2.py" beforeDir="false" afterPath="$PROJECT_DIR$/Week 1/Exercises/while 2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week 1/while 3.py" beforeDir="false" afterPath="$PROJECT_DIR$/Week 1/Exercises/while 3.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week 2/Exercise Guess My Number.py" beforeDir="false" afterPath="$PROJECT_DIR$/Week 2/Exercises/Guess My Number.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week 4/7. Testing and Debugging/Exercise integer division.py" beforeDir="false" afterPath="$PROJECT_DIR$/Week 4/Exercises/Integer Division.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week 4/8. Exceptions and Assertions/Exercise simple divide.py" beforeDir="false" afterPath="$PROJECT_DIR$/Week 4/Exercises/Simple Divide.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="MITx-6.00.1x" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -32,6 +63,9 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Casper\Desktop\MITx-6.00.1x\Week 4\Exercises" />
+      <recent name="C:\Users\Casper\Desktop\MITx-6.00.1x\Week 1\Exercises" />
+      <recent name="C:\Users\Casper\Desktop\MITx-6.00.1x\Week 2\Exercises" />
       <recent name="C:\Users\Casper\Desktop\MITx-6.00.1x" />
     </key>
   </component>
@@ -47,8 +81,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.Exercise Guess My Number">
-    <configuration name="Exercise Guess My Number" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.gcd Recur">
+    <configuration name="Odd" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="MITx-6.00.1x" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -56,11 +90,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Week 2" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Week 2/Exercises" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Week 2/Exercise Guess My Number.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Week 2/Exercises/Odd.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -69,7 +103,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Exercise Hello World" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="Power Iter" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="MITx-6.00.1x" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -77,11 +111,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Week 1" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Week 2/Exercises" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="C:\Users\Casper\Desktop\MITx-6.00.1x\Week 1\Hello World.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Week 2/Exercises/Power Iter.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -90,7 +124,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Happy" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="Power Recur" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="MITx-6.00.1x" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -98,11 +132,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Week 1" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Week 2/Exercises" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Week 1/Happy.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Week 2/Exercises/Power Recur.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -111,7 +145,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Problem 1" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="gcd Iter" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="MITx-6.00.1x" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -119,11 +153,32 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Week 4/Week 1/Problem Set 1" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Week 2/Exercises" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Week 4/Week 1/Problem Set 1/Problem 1.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Week 2/Exercises/gcd Iter.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="gcd Recur" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="MITx-6.00.1x" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Week 2/Exercises" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Week 2/Exercises/gcd Recur.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -134,12 +189,16 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.Exercise Guess My Number" />
-        <item itemvalue="Python.Happy" />
-        <item itemvalue="Python.Exercise Hello World" />
-        <item itemvalue="Python.Problem 1" />
+        <item itemvalue="Python.gcd Recur" />
+        <item itemvalue="Python.gcd Iter" />
+        <item itemvalue="Python.Power Recur" />
+        <item itemvalue="Python.Power Iter" />
+        <item itemvalue="Python.Odd" />
       </list>
     </recent_temporary>
+  </component>
+  <component name="StructureViewFactory">
+    <option name="ACTIVE_ACTIONS" value=",SHOW_INHERITED,SHOW_FIELDS" />
   </component>
   <component name="SvnConfiguration">
     <configuration />
