@@ -2,12 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5f68d865-a818-4179-99ff-fc23ac420b3a" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Week 3/Exercises/Apply to each 1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Week 3/Exercises/Apply to each 2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Week 3/Exercises/Apply to each 3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Week 3/Exercises/Biggest.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Week 3/Exercises/Odd tuples.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Week 3/Exercises/how many.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week 3/Problem Set 3(Hangman)/Problem 1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week 3/Problem Set 3(Hangman)/Problem 2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week 3/Problem Set 3(Hangman)/Problem 3.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -36,7 +33,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../hangman" />
     <property name="settings.editor.selected.configurable" value="vcs.Git" />
   </component>
   <component name="RecentsManager">
@@ -59,7 +56,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.Apply to each">
+  <component name="RunManager" selected="Python.Problem 4">
     <configuration name="Apply to each" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="MITx-6.00.1x" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -123,7 +120,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="gcd Recur" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="Problem 4" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="MITx-6.00.1x" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -131,11 +128,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Week 2/Exercises" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Week 3/Problem Set 3(Hangman)" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Week 2/Exercises/gcd Recur.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Week 3/Problem Set 3(Hangman)/Problem 4.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -167,11 +164,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.Problem 4" />
         <item itemvalue="Python.Apply to each" />
         <item itemvalue="Python.Problem 2" />
         <item itemvalue="Python.Problem 1" />
         <item itemvalue="Python.is in" />
-        <item itemvalue="Python.gcd Recur" />
       </list>
     </recent_temporary>
   </component>
