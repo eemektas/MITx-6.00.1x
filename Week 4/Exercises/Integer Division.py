@@ -5,6 +5,7 @@ def integerDivision(x, a):
 
     returns: integer, the integer division of x divided by a.
     """
+    count = 0
     while x >= a:
         count += 1
         x = x - a
